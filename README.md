@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1 align="center">Transactions App</h1>
+  <h1 align="center">Transaction Dashboard</h1>
 
 [![Página inicial da aplicação][product-screenshot]](#)
 
