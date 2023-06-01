@@ -91,7 +91,7 @@ Admin account:
 1. [x] Make a screen (by forms) to upload the file
 2. [x] Make the parsing of the received file, normalize the data and store them in a relational database, following the file interpretation settings
 3. [x] Show a list of product transactions imported by producer/affiliate, with a totalizer of the value of the transactions carried out
-4. [x] Treat the backend errors, and report messages of friendly erros in frontend.
+4. [x] Treat the backend errors, and report messages of friendly errors in frontend.
 
 More details and stages of the roadmap can be accessed at [ROADMAP.md](DOCUMENTATION/ROADMAP.md)
 
@@ -104,4 +104,3 @@ If you have a suggestion that would make this better, please fork the repo and c
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a [Pull Request](https://github.com/EvelynCleto/TransactionDashboard/pulls)
-
